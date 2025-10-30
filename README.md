@@ -13,6 +13,8 @@ For part two of the homework, I used the MNIST dataset to be able to detect obje
 The next step is using the YOLO model. The YOLO model is significant because this model is known for it's object detection in real time. Once you insert the picture used for detection, you insert it into the yolo model.
 ![image_alt](https://github.com/SetturaM/NANO-706-HW-FINAL/blob/main/Screenshot%202025-10-30%20095826.png?raw=true)
 After inserting the picture, you start coding to generate the detection box/boxes. In this process the coding is to create the detection box/boxes and draw bounding boxes around the object of interest. Once you draw the bounding box, it has to be saved and displayed with detections to show if it focused on the right object in the image.
+
 ![image_alt](https://github.com/SetturaM/NANO-706-HW-FINAL/blob/main/Screenshot%202025-10-30%20095455.png?raw=true)
 Finally, the image is now displayed with the bounding box that has detected my face in the picture. From the previous coding, it tells you the color of the bounding box, which is green. This shows that in that bounding box there is no other detectable objects other than my face.
+
 ![image_alt](https://github.com/SetturaM/NANO-706-HW-FINAL/blob/main/Screenshot%202025-10-30%20095505.png?raw=true)
