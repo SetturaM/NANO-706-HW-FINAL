@@ -1,1 +1,1 @@
-# NANO-706-HW-FINAL
+For part one of the homework, I used a wine quality dataset to look at different wines and their quality. The first step is to load the libraries and the dataset to gain the information needed for the analysis. Once the data is loaded, the next step is to visualize it. In this specific plot, alcohol and malic acid were used for the plot to detect the quality.
